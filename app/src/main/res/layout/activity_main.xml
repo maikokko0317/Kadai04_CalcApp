@@ -15,14 +15,14 @@
             android:layout_width="0dp"
             android:layout_height="100dp"
             android:layout_weight="1"
-            android:inputType="number"
+            android:inputType="numberDecimal"
             android:id="@+id/editText1" />
 
         <EditText
             android:layout_width="0dp"
             android:layout_height="100dp"
             android:layout_weight="1"
-            android:inputType="number"
+            android:inputType="numberDecimal"
             android:id="@+id/editText2"/>
     </LinearLayout>
 
